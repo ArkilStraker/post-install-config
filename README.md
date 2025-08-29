@@ -83,8 +83,8 @@ Teams in osTicket allow administrators to group agents from multiple departments
 <br />
 <p>
 
-  <img width="607" height="366" alt="image" src="https://github.com/user-attachments/assets/df77e73b-bec3-425b-b03f-60dd9a345936" /><img width="408" height="297" alt="image" src="https://github.com/user-attachments/assets/17d053d5-32d4-417b-8698-e41fb96cdae5" />
-<img width="424" height="260" alt="image" src="https://github.com/user-attachments/assets/e8c0293a-9e60-42b0-8c75-f0e4a7dbb1a7" /><img width="556" height="184" alt="image" src="https://github.com/user-attachments/assets/4ed65013-fd98-4a94-964f-d887b0075d4e" />
+  <img width="607" height="366" alt="image" src="https://github.com/user-attachments/assets/df77e73b-bec3-425b-b03f-60dd9a345936" />
+  <img width="408" height="297" alt="image" src="https://github.com/user-attachments/assets/17d053d5-32d4-417b-8698-e41fb96cdae5" /><img width="424" height="260" alt="image" src="https://github.com/user-attachments/assets/e8c0293a-9e60-42b0-8c75-f0e4a7dbb1a7" /><img width="556" height="184" alt="image" src="https://github.com/user-attachments/assets/4ed65013-fd98-4a94-964f-d887b0075d4e" />
 
 </p>
 <p>
